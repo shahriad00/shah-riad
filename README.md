@@ -1,6 +1,6 @@
 ## Shah Jahidul Islam Riad
 
-Junior Software Engineer
+Software Engineer
 
 ![shahriad00's github stats](https://github-readme-stats.vercel.app/api?username=shahriad00&count_private=true)
 
