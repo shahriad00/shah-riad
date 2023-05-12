@@ -23,7 +23,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/shah-jahidul-islam-riad/)
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/shahriad00">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahriad00&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Riad's GitHub Stats" />
